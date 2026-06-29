@@ -109,7 +109,7 @@ Example:
 
 ## 📬 Contact
 
-- 📧 Email: your-email@example.com
+- 📧 Email: sharmasanchit432@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/sanchit-sharma-8922b6271
 - 💻 GitHub: https://github.com/Sanchit-Sharma-07
 
