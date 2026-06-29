@@ -57,7 +57,7 @@ My_Portfolio/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/My_Portfolio.git
+git clone https://github.com/Sanchit-Sharma-07/My_Portfolio.git
 ```
 
 ### Navigate to the Project
