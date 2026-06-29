@@ -1,4 +1,4 @@
-<img width="1920" height="932" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ccdff184-96cc-41ae-aec7-d47b247f6515" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ed6d73f-a80c-44bb-9435-c96775ee8d0f" /># 🌐 My Portfolio
+<img width="1920" height="932" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ccdff184-96cc-41ae-aec7-d47b247f6515" /># 🌐 My Portfolio
 
 A modern, responsive portfolio website built with **React** and **Vite** to showcase my projects, technical skills, certifications, and professional journey. Designed with a clean user interface and optimized for fast performance across desktop and mobile devices.
 
