@@ -1,16 +1,128 @@
-# React + Vite
+<img width="1920" height="932" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ccdff184-96cc-41ae-aec7-d47b247f6515" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ed6d73f-a80c-44bb-9435-c96775ee8d0f" /># 🌐 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with **React** and **Vite** to showcase my projects, technical skills, certifications, and professional journey. Designed with a clean user interface and optimized for fast performance across desktop and mobile devices.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://my-portfolio-sanchit-sharma-07s-projects.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 Modern and responsive UI
+- ⚡ Built with Vite for fast performance
+- 👨‍💻 About Me section
+- 🛠️ Skills showcase
+- 📂 Featured projects
+- 📜 Certifications
+- 📞 Contact section
+- 🌙 Clean and user-friendly design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Icons
+
+---
+
+## 📂 Project Structure
+
+```
+My_Portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/My_Portfolio.git
+```
+
+### Navigate to the Project
+
+```bash
+cd My_Portfolio
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run the Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## 📸 Preview
+
+Example:
+
+<img width="1920" height="932" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/7c806589-df82-4a5d-9ac5-eb5792281163" />
+
+
+## 📬 Contact
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/sanchit-sharma-8922b6271
+- 💻 GitHub: https://github.com/Sanchit-Sharma-07
+
+---
+
+## 👨‍💻 Author
+
+**Sanchit Sharma**
+
+Aspiring **Data Scientist** | **Python Developer** | **Data Analyst**
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
